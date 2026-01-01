@@ -1,0 +1,7 @@
+{
+  "name": "Firma Hukum Sterling & Associates",
+  "description": "Situs web firma hukum terkemuka yang menampilkan desain profesional, tinjauan bidang praktik, profil pengacara, dan Asisten Hukum AI terintegrasi untuk pertanyaan klien.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
