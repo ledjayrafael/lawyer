@@ -95,7 +95,7 @@ const App: React.FC = () => {
               </a>
             ))}
             <button className="bg-slate-900 text-white px-6 py-2.5 rounded-full text-sm font-bold hover:bg-slate-800 transition-all hover:shadow-lg active:scale-95">
-              Jadwalkan Konsultasi
+              By Indra Satriawan, S.Kom
             </button>
           </div>
 
